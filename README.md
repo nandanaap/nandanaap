@@ -1,7 +1,7 @@
 # Hi there, I'm Nandana 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Chat applicaton**
+- 🔭 I'm currently a student @Bharati vidypeeeth
 - 🌱 I'm currently learning **Flutter & REACT**
 - 👯 I'm looking to collaborate on **React projects**
 - 📫 How to reach me: **nandanapramodak@gmail.com**
@@ -80,8 +80,6 @@
 <div align="center">
   
 **Thanks for visiting my profile! 😄**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
 
 ⭐️ From Nandana(https://github.com/nandanaap)
 
