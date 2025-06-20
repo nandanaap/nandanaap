@@ -48,12 +48,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nandanaap&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
 
 
 
@@ -63,7 +58,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandana-pramod-828639254/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://devfolio-swart.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanapramodak@gmail.com)
 
 </div>
